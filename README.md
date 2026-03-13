@@ -1,5 +1,5 @@
 # AdventureWorks Sales & Budget Analysis
-![Dashboard Preview](AdventureWorks_Executive_Sales_Performance./03_PowerBI_Model/Executive_Sales_Performance.png)
+![Dashboard Preview](AdventureWorks_Executive_Sales-Performance/03_PowerBI_Model/Executive_Sales_Performance.png)
 ## Project Overview
 This project provides a comprehensive data analysis solution for a retail scenario using the **AdventureWorks** dataset. It integrates data from a SQL Server database and external CSV budget files to create a robust Star Schema model in Power BI.
 
