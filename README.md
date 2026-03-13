@@ -52,7 +52,7 @@ The project reveals a transformative shift in the business model during the fina
 * **Geographic Expansion:** Growth was not localized; while Australia remains the volume leader, regions like **Southwest US saw a 314% surge**, diversifying the global risk.
 * **Pareto Efficiency:** The product mix evolved from a fragmented Year 2 to a consolidated Year 3, where 6 key products now drive the majority of the new revenue stream.
 
-**[Read the Full Executive Insights Report here](./04_Documentation/Executive_Insights.md)** for a deep dive into the correlation between customer acquisition and regional profitability.
+**[Read the Full Executive Insights Report here](AdventureWorks_Executive_Sales-Performance/04_Documentation/Executive_Insights.md)** for a deep dive into the correlation between customer acquisition and regional profitability.
 
 ## How to Use
 1.  Run the scripts in the `01_SQL_Scripts/` folder on your SQL environment.
